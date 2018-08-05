@@ -1,6 +1,6 @@
 from itertools import count
 
-arr = [1, 2, 3, 4, 5]
+arr = [1, 2, 3, 4, 5555]
 
 
 class MyRange:
